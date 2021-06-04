@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.fbalpha2012-cps3"
+		name="Arcade (FB Alpha 2012 CPS-3)"
+		version="0.2.97.1"
+		provider-name="Team FB Alpha">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
+		<platforms></platforms>
+		<extensions>iso|zip</extensions>
+		<supports_vfs>false</supports_vfs>
+		<supports_standalone>false</supports_standalone>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Arcade (FB Alpha 2012 CPS-3) v0.2.97.29</summary>
+		<description lang="en_GB">Supported files: .iso, .zip</description>
+		<license>Non-commercial</license>
+		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.fbalpha2012-cps3</source>
+	</extension>
+</addon>
