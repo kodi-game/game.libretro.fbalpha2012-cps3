@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.fbalpha2012-cps3</source>
 		<summary lang="en_GB">Arcade (FB Alpha 2012 CPS-3) v0.2.97.29</summary>
-		<description lang="en_GB">A port of Final Burn Alpha 2012 to Libretro. Standalone core for Capcom CPS3.</description>
+		<description lang="en_GB">Port of Final Burn Alpha 2012 to Libretro. Standalone core for Capcom CPS3.Supported files: .iso, .zip</description>
 	</extension>
 </addon>
