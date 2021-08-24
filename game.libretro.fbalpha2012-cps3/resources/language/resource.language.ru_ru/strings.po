@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
+msgctxt "Addon Summary"
+msgid "Arcade (FB Alpha 2012 CPS-3) v0.2.97.29"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Port of Final Burn Alpha 2012 to Libretro. Standalone core for Capcom CPS3.
+
+Supported files: .iso, .zip"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
