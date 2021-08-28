@@ -17,6 +17,9 @@
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.fbalpha2012-cps3</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Arcade (FB Alpha 2012 CPS-3) v0.2.97.29</summary>
 		<description lang="en_GB">A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Capcom CPS-3.</description>
 	</extension>
