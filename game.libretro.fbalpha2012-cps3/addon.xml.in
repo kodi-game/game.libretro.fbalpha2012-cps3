@@ -23,6 +23,7 @@
 		</assets>
 		<summary lang="en_GB">Arcade (FB Alpha 2012 CPS-3) v0.2.97.29</summary>
 		<description lang="da_DK">En port af FinalBurn Alpha 2012 til Libretro. Dette er den selvstændige kerne til Capcom CPS-3.</description>
+		<description lang="de_DE">Eine Portierung von FinalBurn Alpha 2012 auf Libretro. Dies ist der eigenständige Core für Capcom CPS-3.</description>
 		<description lang="en_GB">A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Capcom CPS-3.</description>
 		<description lang="es_ES">Una adaptación de FinalBurn Alpha 2012 a Libretro. Este es el núcleo independiente para Capcom CPS-3.</description>
 		<description lang="zh_CN">FinalBurn Alpha 2012 的 Libretro 实现。这是 Capcom CPS-3 的独立核心。</description>
