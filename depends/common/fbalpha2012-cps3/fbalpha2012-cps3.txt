@@ -1,1 +1,1 @@
-fbalpha2012-cps3 https://github.com/libretro/fbalpha2012_cps3/archive/5ae6afeda0af01925e42e1f8dc5aca2a825afc51.tar.gz
+fbalpha2012-cps3 https://github.com/libretro/fbalpha2012_cps3/archive/9855bffb078ee552797c95656ed0bf6b60e2750f.tar.gz
