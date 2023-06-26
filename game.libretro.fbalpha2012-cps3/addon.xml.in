@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.fbalpha2012-cps3"
 		name="Arcade (FB Alpha 2012 CPS-3)"
-		version="0.2.97.14"
+		version="0.2.97.15"
 		provider-name="Team FB Alpha">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
