@@ -1,0 +1,29 @@
+From b4af01ae6a5d3a13039b0733bbc41462ec5fc1bd Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Sun, 11 Aug 2024 22:10:16 -0700
+Subject: [PATCH] Build with -std=gnu++11 on macOS
+
+Fixes error:
+
+  src/burner/libretro/libretro.cpp:4:10: fatal error: 'vector' file not found
+  #include <vector>
+           ^~~~~~~~
+---
+ svn-current/trunk/makefile.libretro | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/svn-current/trunk/makefile.libretro b/svn-current/trunk/makefile.libretro
+index a0c97b2d..906b4e3d 100644
+--- a/svn-current/trunk/makefile.libretro
++++ b/svn-current/trunk/makefile.libretro
+@@ -78,6 +78,7 @@ else ifeq ($(platform), osx)
+    TARGET := $(TARGET_NAME)_libretro.dylib
+    fpic := -fPIC
+    SHARED := -dynamiclib
++   CXXFLAGS += -std=gnu++11
+ ifeq ($(arch),ppc)
+    ENDIANNESS_DEFINES =  -DWORDS_BIGENDIAN -DMSB_FIRST
+ endif
+-- 
+2.34.1
+
