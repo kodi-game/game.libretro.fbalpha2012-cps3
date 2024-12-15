@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Capcom CPS-3."
 msgstr "Una adaptación de FinalBurn Alpha 2012 a Libretro. Este es el núcleo independiente para Capcom CPS-3."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Core-provided aspect ratio"
 msgstr "Relación de Aspecto Proporcionada por el Núcleo"
@@ -64,3 +60,7 @@ msgstr "Esquema Gamepad L/R P1"
 msgctxt "#30009"
 msgid "L/R P2 gamepad scheme"
 msgstr "Esquema Gamepad L/R P2"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
