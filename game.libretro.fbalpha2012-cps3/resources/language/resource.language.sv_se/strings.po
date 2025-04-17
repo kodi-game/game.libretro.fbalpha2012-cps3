@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.fbalpha2012-cps3\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-06-03 19:22i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-fbalpha2012-cps3/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Arcade (FB Alpha 2012 CPS-3)"
@@ -25,9 +25,10 @@ msgctxt "Addon Description"
 msgid "A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Capcom CPS-3."
 msgstr "En portning av FinalBurn Alpha 2012 till Libretro. Detta är den fristående kärnan för Capcom CPS-3."
 
+#, fuzzy
 msgctxt "#30001"
 msgid "Core-provided aspect ratio"
-msgstr ""
+msgstr "Bildförhållande som tillhandahålls av Core"
 
 msgctxt "#30002"
 msgid "Frameskip"
@@ -35,31 +36,36 @@ msgstr "Hoppa över bildrutor"
 
 msgctxt "#30003"
 msgid "CPU overclock"
-msgstr ""
+msgstr "CPU-överklockning"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "P1 control scheme"
-msgstr ""
+msgstr "P1 kontrollschema"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "P2 control scheme"
-msgstr ""
+msgstr "P2 kontrollsystem"
 
 msgctxt "#30006"
 msgid "Hiscores"
 msgstr "Högsta poäng"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Samplerate (need to quit retroarch)"
-msgstr ""
+msgstr "Samplerate (måste sluta med retroark)"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "L/R P1 gamepad scheme"
-msgstr ""
+msgstr "L/R P1 gamepad-schema"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "L/R P2 gamepad scheme"
-msgstr ""
+msgstr "L/R P2 gamepad-schema"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
