@@ -27,6 +27,7 @@
 		<summary lang="es_ES">Arcade (FinalBurn Alpha 2012 CPS-3)</summary>
 		<summary lang="ga">Arcade (FB Alpha 2012 CPS-3)</summary>
 		<summary lang="it_IT">Arcade (FB Alpha 2012 CPS-3)</summary>
+		<summary lang="ru_RU">Аркада (FB Alpha 2012 CPS-3)</summary>
 		<summary lang="sv_SE">Arcade (FB Alpha 2012 CPS-3)</summary>
 		<summary lang="zh_CN">街机（FB Alpha 2012 CPS-3）</summary>
 		<description lang="da_DK">En port af FinalBurn Alpha 2012 til Libretro. Dette er den selvstændige kerne til Capcom CPS-3.</description>
@@ -35,6 +36,7 @@
 		<description lang="es_ES">Una adaptación de FinalBurn Alpha 2012 a Libretro. Este es el núcleo independiente para Capcom CPS-3.</description>
 		<description lang="ga">Port de FinalBurn Alpha 2012 chuig Libretro. Seo croílár neamhspleách Capcom CPS-3.</description>
 		<description lang="it_IT">Un port di FinalBurn Alpha 2012 su Libretro. Questo è il core autonomo per Capcom CPS-3.</description>
+		<description lang="ru_RU">Порт FinalBurn Alpha 2012 на Libretro. Это отдельное ядро для Capcom CPS-3.</description>
 		<description lang="sv_SE">En portning av FinalBurn Alpha 2012 till Libretro. Detta är den fristående kärnan för Capcom CPS-3.</description>
 		<description lang="zh_CN">FinalBurn Alpha 2012 的 Libretro 实现。这是 Capcom CPS-3 的独立核心。</description>
 	</extension>
